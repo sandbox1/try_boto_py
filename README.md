@@ -1,10 +1,22 @@
-## Github Project
+##
+
+Boto samples of various s3 operations
+
+- create bucket
+- upload file
+- download file
+- delete file 
+- copy files between buckets
+- list bucket content
+- delete buckets 
+
+## Boto Github Project
 
  ```
  https://github.com/boto/boto3
  ```
 
-## Notes: Sept 2016
+## Notes: As of sept 2016
 
 If Importing boto3 for use on AWS lamda 
 AWS is currently importing boto verion 1.3.1
@@ -25,4 +37,7 @@ $ pip install -r requirements-docs.txt
 $ cd docs
 $ make html
 ```
+
+
+
 
