@@ -1,6 +1,4 @@
-##
-
-Boto samples of various s3 operations
+## Boto samples of various s3 operations
 
 - create bucket
 - upload file
@@ -16,7 +14,7 @@ Boto samples of various s3 operations
  https://github.com/boto/boto3
  ```
 
-## Notes: As of sept 2016
+## Notes: (As of sept 2016)
 
 If Importing boto3 for use on AWS lamda 
 AWS is currently importing boto verion 1.3.1
